@@ -1,5 +1,13 @@
-# Agora UIKit Project Demos @ RTE2021
+# [ARCHIVED] Agora UIKit Project Demos @ RTE2021
 
+**⚠️ This project is no longer maintained and has been archived.**  
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+The Agora UIKit's have been deprecated. We recommend updating your implementation use to the latest version of the **Agora Video SDK**: [Learn more](https://www.agora.io/en/products/video-call/) 
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+---
 <p align:"center">
     <a href = "https://rte2021.agora.io/">
         <img src="https://s3.amazonaws.com/us.inevent.landing/579/header.png" alt="RTE 2021 Cover Image"/>
